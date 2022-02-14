@@ -1,0 +1,34 @@
+เชื่อมต่อฐานข้อมูลสำเร็จ
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [RFID_KEY] => 545345
+            [firstname] => วชิระ
+            [lastname] => ไชยธรรม
+            [house_number] => 69
+            [district] => บ่อยาง
+            [prefecture] => เมือง
+            [province] => สงขลา
+            [zip_code] => 90000
+            [telephone] => 0980433582
+            [picture] => 1575896220.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [RFID_KEY] => 007
+            [firstname] => จอร์น
+            [lastname] => วิค
+            [house_number] => 13
+            [district] => บ่อยาง
+            [prefecture] => เมือง
+            [province] => สงขลา
+            [zip_code] => 90000
+            [telephone] => 0980433582
+            [picture] => 1575981125.png
+        )
+
+)
